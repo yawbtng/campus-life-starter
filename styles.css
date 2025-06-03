@@ -1,0 +1,93 @@
+p {
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+
+}
+
+.orgs {
+    border: 1px solid gray;
+    margin: 0px 20px;
+    padding: 50px;
+
+}
+
+
+#navigation {
+    background-color: lightgreen;
+    margin: 20px;
+    padding: 15px;
+    border: 3px solid black;
+}
+
+#nav-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+
+#navigation li {
+    list-style: none;
+    padding: 0 50px;
+
+}
+
+.nav-link {
+    color: blue;
+    list-style-type: none;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: purple;
+}
+
+.nav-link:visited {
+    color: purple;
+}
+
+#organizations {
+    margin: 15px;
+    padding:10px;
+}
+
+#organizations div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+h1 {
+    font-size: 400%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+header {
+    margin: 10px 5px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid blue;
+
+
+}
+
+#events {
+    border: 1px solid gray;
+}
+
+body {
+    background-color: lightblue;
+}
+
+#tagline {
+    font-size: 20px;
+    margin: -5px;
+}
+header h1 {
+    margin: 10px 5px;
+}
